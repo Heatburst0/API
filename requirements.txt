@@ -1,5 +1,5 @@
 ﻿numpy==1.24.2
-tensorflow==2.12.0rc0
+tensorflow
 opencv-python==4.7.0.72
 uvicorn==0.21.0
 fastapi==0.94.1
