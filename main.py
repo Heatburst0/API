@@ -1,4 +1,4 @@
-import pandas as pd
+
 from tensorflow import keras
 from fastapi import FastAPI
 import uvicorn
